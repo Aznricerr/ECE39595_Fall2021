@@ -1,0 +1,14 @@
+Add sword to room4
+Add thing to room3
+Add Midkiff to Entrance
+i
+n
+take sword
+i
+Delete thing
+e
+take thing
+Add thing to room3
+take thing
+i
+Game Over

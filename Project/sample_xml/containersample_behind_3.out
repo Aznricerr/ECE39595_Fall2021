@@ -1,0 +1,18 @@
+Room - Entrance
+closet contains sword.
+Inventory: empty
+Item sword added to the inventory.
+Inventory: sword
+closet is empty.
+Room - Main
+Room - Staircase (exit)
+bottle contains note.
+Item note added to the inventory.
+Cannot add note to closed container.
+Error
+Item sword added to the container.
+container contains sword.
+Item note added to the container.
+container contains note, sword.
+Inventory: empty
+Game Over

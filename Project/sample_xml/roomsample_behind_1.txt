@@ -1,0 +1,6 @@
+Add torch to room4
+n
+i
+take torch
+i
+Game Over

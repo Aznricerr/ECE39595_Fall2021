@@ -1,0 +1,35 @@
+e
+N
+n
+i
+take torch
+i
+n
+read torch
+turn on torch
+turn on torch
+n
+attack gnome with torch
+attack gnome with hand
+attack gnome with face!
+w
+read chest
+attack chest with torch
+open chest
+take explosive
+open chest
+i
+attack gnome with explosive
+read explosive
+turn on explosive
+put explosive in chest
+attack gnome with explosive
+take dynamite
+take explosive
+attack gnome with explosive
+take key
+drop key
+take key
+put key in lock
+n
+open exit

@@ -1,0 +1,17 @@
+open closet
+i
+take sword
+i
+open closet
+n
+n
+open bottle
+take note
+put note in container
+open container
+put sword in container
+open container
+put note in container
+open container
+i
+open exit

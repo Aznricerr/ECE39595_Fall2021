@@ -1,0 +1,11 @@
+i
+take bucket
+take shovel
+i
+take shovel
+i
+n
+take shovel
+i
+n
+open exit

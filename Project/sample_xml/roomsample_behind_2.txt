@@ -1,0 +1,13 @@
+Add sword to room4
+Add qwertyuiop to room3
+Add asdfghjkl to Entrance
+take sword
+take asdfghjkl
+n
+i
+e
+take qwertyuiop
+i
+Delete qwertyuiop
+i
+Game Over

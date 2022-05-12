@@ -1,0 +1,13 @@
+34c34
+<    Array2D res = a6 * a7;
+---
+>    Array2D& res = a6 * a7;
+43c43
+<    Array2D res2 = a1*a7; 
+---
+>    Array2D& res2 = a1*a7; 
+56a57,60
+> 
+>    // no need to delete assgn because it references the same object as a2.
+>    delete &res;
+>    delete &res2;

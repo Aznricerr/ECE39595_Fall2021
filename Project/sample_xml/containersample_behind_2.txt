@@ -1,0 +1,13 @@
+i
+open unused
+open bottle
+n
+n
+open bottle
+take note
+i
+open bottle
+put note in bottle
+open bottle
+i
+open exit
